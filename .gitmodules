@@ -1,6 +1,3 @@
-[submodule "godot-helics-rust-integration"]
-	path = godot-helics-rust-integration
-	url = https://github.com/bondlegend4/godot-helics-rust-integration.git
 [submodule "lunco-sim"]
 	path = lunco-sim
 	url = https://github.com/bondlegend4/lunco-sim.git
